@@ -1,6 +1,6 @@
 
 -- Author: ecamargo
--- Date: 10/15/2025
+-- Date: 10/10/2025
 -- Description: Retrieves completed football matches for the Colombian football platform.
 
 CREATE PROCEDURE [dbo].[GetHomeFootballMatches]
